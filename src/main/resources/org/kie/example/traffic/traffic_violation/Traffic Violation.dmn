@@ -98,7 +98,7 @@
           <dmn:text>"parking"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_21435A71-CA4D-4630-A5DB-534E90D24794">
-          <dmn:text></dmn:text>
+          <dmn:text>-</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_2834998A-CE1E-48E8-9506-700EEC551CAC">
           <dmn:text>100</dmn:text>
@@ -112,7 +112,7 @@
           <dmn:text>"driving under the influence"</dmn:text>
         </dmn:inputEntry>
         <dmn:inputEntry id="_F4A381E2-087B-4AF9-A306-73B4CEB379F0">
-          <dmn:text></dmn:text>
+          <dmn:text>-</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_340305D8-DBE3-45FE-ADA3-56EFE09A1B9F">
           <dmn:text>1000</dmn:text>
