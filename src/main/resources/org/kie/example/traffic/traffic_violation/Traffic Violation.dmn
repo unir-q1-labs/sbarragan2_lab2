@@ -14,7 +14,9 @@
     <dmn:itemComponent id="_DFA98EEA-9DDD-4993-AE25-EB6BA836CCB8" name="Age" isCollection="false">
       <dmn:typeRef>number</dmn:typeRef>
     </dmn:itemComponent>
-    <dmn:itemComponent id="_1AC023DE-DCC2-4103-A879-5333416F0DE0" name="Name" isCollection="false"/>
+    <dmn:itemComponent id="_1AC023DE-DCC2-4103-A879-5333416F0DE0" name="Name" isCollection="false">
+      <dmn:typeRef>string</dmn:typeRef>
+    </dmn:itemComponent>
   </dmn:itemDefinition>
   <dmn:itemDefinition id="_639E9BF2-AD99-44C5-AE01-E8609A1D9100" name="tViolation" isCollection="false">
     <dmn:itemComponent id="_F9B5E906-E00E-41B8-A1BC-AB0BF01A5B0C" name="Actual Speed" isCollection="false">
